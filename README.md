@@ -3,8 +3,8 @@ Make mac more efficient
 
 ## 目录
 - [APP](#App)
-- [Mac Shortcuts](#Mac Shortcuts)
-- [Xcode Shortcuts](#Xcode Shortcuts)
+- [Mac Shortcuts](#Mac-Shortcuts)
+- [Xcode Shortcuts](#Xcode-Shortcuts)
 
 ## App
 
