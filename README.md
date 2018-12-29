@@ -24,4 +24,5 @@ Make mac more efficient
 
 ## Mac Shortcuts
 
-## Xcode Shortcuts
+## [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
+
