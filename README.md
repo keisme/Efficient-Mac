@@ -22,6 +22,7 @@ Make mac more efficient
 - [The Unarchiver](https://theunarchiver.com/)：解压工具
 - [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools)：网速模拟工具
 - [Commitizen](https://github.com/commitizen/cz-cli)：使 git commit 提交更规范
+- [Homebrew](https://brew.sh/index_zh-cn)：方便的包管理工具
 
 ## Mac Shortcuts
 
