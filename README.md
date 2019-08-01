@@ -21,6 +21,7 @@ Make mac more efficient
 - [Downie](https://software.charliemonroe.net/downie.php)：下载视频网站的视频
 - [The Unarchiver](https://theunarchiver.com/)：解压工具
 - [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools)：网速模拟工具
+- [Commitizen](https://github.com/commitizen/cz-cli)：使 git commit 提交更规范
 
 ## Mac Shortcuts
 
