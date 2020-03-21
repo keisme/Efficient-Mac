@@ -5,6 +5,9 @@ Make mac more efficient
 - [Softwares](#Softwares)
 - [Mac Shortcuts](#Mac-Shortcuts)
 - [Xcode Shortcuts](#Xcode-Shortcuts)
+- [Git Config](#Git Config)
+- [Vim Config](#Vim Config)
+- [Xcode](#Xcode)
 
 ## Softwares
 
@@ -27,4 +30,79 @@ Make mac more efficient
 ## Mac Shortcuts
 
 ## [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
+
+## Git Config
+
+### .gitconfig
+
+```markdown
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+
+[core]
+	excludesfile = ~/.gitignore_global
+	
+[user]
+	name = <name>
+	email = <email>
+```
+
+### .gitignore_global
+
+```markdown
+# .gitignore_global
+
+.DS_Store
+.DS_Store?
+*.DS_Store
+*/.DS_Store
+
+*/.xcuserstate
+*.xcuserstate
+```
+
+### .gitignore
+[Swift.gitignore](https://github.com/github/gitignore/blob/master/Swift.gitignore)
+
+### 指定项目 author
+
+在项目文件`.git/config`中按照上 面的全局配置重写`[user]`即可。
+
+## Vim Config
+
+路径：
+
+```
+~/vimrc
+```
+
+配置：
+
+```
+syntax on
+set number
+set ruler
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set cursorline
+hi CursorLine   cterm=NONE ctermbg=blue ctermfg=white guibg=blue guifg=white
+set hlsearch
+```
+
+
+
+## Xcode
+
+### Theme Path
+
+```
+~/Library/Developer/Xcode/UserData
+```
+
+
+
+
+
+
 
