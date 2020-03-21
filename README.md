@@ -5,8 +5,8 @@ Make mac more efficient
 - [Softwares](#Softwares)
 - [Mac Shortcuts](#Mac-Shortcuts)
 - [Xcode Shortcuts](#Xcode-Shortcuts)
-- [Git Config](#Git Config)
-- [Vim Config](#Vim Config)
+- [Git Config](#Git-Config)
+- [Vim Config](#Vim-Config)
 - [Xcode](#Xcode)
 
 ## Softwares
