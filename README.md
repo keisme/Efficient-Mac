@@ -4,7 +4,6 @@ Make mac more efficient
 ## 目录
 - [Softwares](#Softwares)
 - [Mac Shortcuts](#Mac-Shortcuts)
-- [Xcode Shortcuts](#Xcode-Shortcuts)
 - [Git Config](#Git-Config)
 - [Vim Config](#Vim-Config)
 - [Xcode](#Xcode)
@@ -28,8 +27,6 @@ Make mac more efficient
 - [Homebrew](https://brew.sh/index_zh-cn)：方便的包管理工具
 
 ## Mac Shortcuts
-
-## [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
 
 ## Git Config
 
@@ -100,7 +97,7 @@ set hlsearch
 ~/Library/Developer/Xcode/UserData
 ```
 
-
+### [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
 
 
 
