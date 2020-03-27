@@ -90,15 +90,13 @@ set hlsearch
 
 
 ## Xcode
-
-### Theme Path
-
-```
-~/Library/Developer/Xcode/UserData
-```
-
-### [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
-
+- [Theme](https://github.com/keisme/Efficient-Mac/tree/master/FontAndColorThemes)
+  ```
+  ~/Library/Developer/Xcode/UserData
+  ```
+- [Xcode Shortcuts](https://kapeli.com/cheat_sheets/Xcode_Shortcuts.docset/Contents/Resources/Documents/index)
+- [Templates](https://github.com/keisme/Efficient-Mac/tree/master/Templates/Custom)
+- [IDETemplateMacros.plist](https://github.com/keisme/Efficient-Mac/blob/master/IDETemplateMacros.plist)（[Config](http://keisme.cn/%E8%87%AA%E5%AE%9A%E4%B9%89-Xcode-%E6%96%87%E4%BB%B6%E5%A4%B4%E9%83%A8%E6%B3%A8%E9%87%8A.html))
 
 
 
