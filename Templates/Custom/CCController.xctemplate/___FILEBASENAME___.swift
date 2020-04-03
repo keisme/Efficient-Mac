@@ -27,7 +27,7 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
         
     }
     
-    func reloadUI() {
+    func refreshUI() {
         
     }
     
@@ -45,10 +45,5 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 
 // MARK: - Requests
 extension ___FILEBASENAMEASIDENTIFIER___ {
-    
-}
-
-// MARK: - <#Protocol#>
-extension ___FILEBASENAMEASIDENTIFIER___: <#Protocol#> {
     
 }
