@@ -3,19 +3,20 @@
 import UIKit
 
 /// <#Description#>
-class ___FILEBASENAMEASIDENTIFIER___: BaseView {
+class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
+    
+    // MARK: - Public
     
     // MARK: - Private
     
     // MARK: - LifeCycle
-    
-    override init(frame: CGRect) {
-        super.init(frame: frame)
+    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+        super.init(style: style, reuseIdentifier: reuseIdentifier)
         setupUI()
     }
     
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
         setupUI()
     }
     

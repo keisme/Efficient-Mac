@@ -3,7 +3,7 @@
 import UIKit
 
 /// <#Description#>
-class ___FILEBASENAMEASIDENTIFIER___: BaseView {
+class ___FILEBASENAMEASIDENTIFIER___: UICollectionViewCell {
     
     // MARK: - Private
     
@@ -13,9 +13,9 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseView {
         super.init(frame: frame)
         setupUI()
     }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
+
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
         setupUI()
     }
     
@@ -38,6 +38,12 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 }
 
 // MARK: - Events
+
+extension ___FILEBASENAMEASIDENTIFIER___ {
+    
+}
+
+// MARK: - Requests
 
 extension ___FILEBASENAMEASIDENTIFIER___ {
     
