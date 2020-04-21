@@ -4,24 +4,24 @@ import UIKit
 
 /// <#Description#>
 class ___FILEBASENAMEASIDENTIFIER___: BaseController {
+  
+  // MARK: - Private
+  
+  // MARK: - LifeCycle
+  
+  override func viewDidLoad() {
+    super.viewDidLoad()
     
-    // MARK: - Private
-    
-    // MARK: - LifeCycle
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        setupUI()
-    }
+    setupUI()
+  }
 }
 
 // MARK: - UI
 
 extension ___FILEBASENAMEASIDENTIFIER___ {
-    func setupUI() {
-        
-    }
+  func setupUI() {
+    
+  }
 }
 
 // MARK: - Helper

@@ -4,29 +4,29 @@ import UIKit
 
 /// <#Description#>
 class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
-    
-    // MARK: - Public
-    
-    // MARK: - Private
-    
-    // MARK: - LifeCycle
-    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
-        super.init(style: style, reuseIdentifier: reuseIdentifier)
-        setupUI()
-    }
-    
-    required init?(coder: NSCoder) {
-        super.init(coder: coder)
-        setupUI()
-    }
+  
+  // MARK: - Public
+  
+  // MARK: - Private
+  
+  // MARK: - LifeCycle
+  override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+    super.init(style: style, reuseIdentifier: reuseIdentifier)
+    setupUI()
+  }
+  
+  required init?(coder: NSCoder) {
+    super.init(coder: coder)
+    setupUI()
+  }
 }
 
 // MARK: - UI
 
 extension ___FILEBASENAMEASIDENTIFIER___ {
-    func setupUI() {
-        
-    }
+  func setupUI() {
+    
+  }
 }
 
 // MARK: - Helper
