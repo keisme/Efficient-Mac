@@ -25,6 +25,7 @@ Make mac more efficient
 - [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools)：网速模拟工具
 - [Commitizen](https://github.com/commitizen/cz-cli)：使 git commit 提交更规范
 - [Homebrew](https://brew.sh/index_zh-cn)：方便的包管理工具
+- [carbon](https://github.com/carbon-app/carbon/blob/master/docs/README.cn.zh.md)：导出精美的代码片段，支持 Xcode 扩展
 
 ## Mac Shortcuts
 
